@@ -2,7 +2,7 @@
 
 A C++ Linux system monitor program with similar functionality to the widely used [htop](https://hisham.hm/htop/) application. 
 
-<img src="images/example.png" width="700"/>
+<img src="images/example.png" width="900"/>
 
 ## Usage
 
